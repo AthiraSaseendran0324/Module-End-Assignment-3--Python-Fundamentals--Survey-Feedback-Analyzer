@@ -6,12 +6,12 @@ This assignment focuses on analyzing customer feedback using basic Python progra
 
 ## Assignment Tasks
 
-1. **Preloaded Feedbacks: Store the initial customer feedback data in a dictionary.
-2. **Add More Feedbacks: Accept additional customer details, feedback comments, and ratings from the user.
-3. **Text Cleaning: Remove specified punctuation marks, convert text to lowercase, and remove extra spaces.
-4. **Word Count Insights: Create a function to count feedback entries containing specific words such as "good", "poor", and "excellent'.
-5. **Final Summary and Insights:** Display the feedback data, calculate the average rating, identify the longest feedback comment, and find unique words.
-6. **Optional Task: Sort feedback by rating in descending order using the "zip()' and "sorted()" functions.
+1. Preloaded Feedbacks: Store the initial customer feedback data in a dictionary.
+2. Add More Feedbacks: Accept additional customer details, feedback comments, and ratings from the user.
+3. Text Cleaning: Remove specified punctuation marks, convert text to lowercase, and remove extra spaces.
+4. Word Count Insights: Create a function to count feedback entries containing specific words such as "good", "poor", and "excellent'.
+5. Final Summary and Insights: Display the feedback data, calculate the average rating, identify the longest feedback comment, and find unique words.
+6. Optional Task: Sort feedback by rating in descending order using the "zip()' and "sorted()" functions.
 
 ## Concepts Used
 
